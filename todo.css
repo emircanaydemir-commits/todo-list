@@ -55,7 +55,7 @@ body{
 .kart{
     perspective: 10000;
     width: 50%;
-    height: 80vh;
+    height: 80%;
     background-color: var(--kart);
     border: 2px solid var(--girdi-kenar);
     border-radius: 20px;
@@ -171,6 +171,7 @@ body{
     }
     .kart{
         width: 90%;
+        height: 80%;
     }
     .silme-button{
         width: 12%;
