@@ -164,9 +164,10 @@ body{
 }
 @media(max-width:1000px){
     .kart{
-        width: 80%;
+        width: 90%;
     }
     .silme-button{
+        width: 12%;
         font-size: 15px;
     }
 }
