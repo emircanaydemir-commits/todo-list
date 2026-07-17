@@ -163,6 +163,12 @@ body{
     color: gray;
 }
 @media(max-width:1000px){
+    .mod-button{
+        right: 20px;
+        top: 20px;
+        width: 30px;
+        height: 30px;
+    }
     .kart{
         width: 90%;
     }
