@@ -163,6 +163,9 @@ body{
     color: gray;
 }
 @media(max-width:1000px){
+    .baslik{
+        font-size: 30px;
+    }
     .mod-button{
         right: 20px;
         top: 20px;
